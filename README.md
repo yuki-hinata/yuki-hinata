@@ -32,6 +32,5 @@
 </p>
   
 <p align="left">
-  <img src="https://github.com//<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
-
+  <img src="https://github.com/yuki-hinata/Portfolio" alt="Avinal WakaTime Activity"/>
+</p>
