@@ -16,6 +16,6 @@
 </p>
 
 <p align="left">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-hinata)](https://github.com/anuraghazra/github-readme-stats)
+ <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-hinata&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 
 </p>
