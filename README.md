@@ -31,4 +31,4 @@
  <img alt="Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-hinata&theme=default"
 </p>
   
-![Metrics](https://github.com/yuki-hinata/yuki-hinata/blob/main/stat.svg)
+![Metrics](https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg)
