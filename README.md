@@ -30,3 +30,8 @@
  <img alt="Repo" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki-hinata&theme=default" />
  <img alt="Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-hinata&theme=default"
 </p>
+  
+<p align="left">
+  <img src="https://github.com//<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
