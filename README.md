@@ -28,7 +28,9 @@
 <p align="left">
  <img alt="Status" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki-hinata&theme=default" />
  <img alt="Repo" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki-hinata&theme=default" />
- <img alt="Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-hinata&theme=default"
+ <img alt="Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-hinata&theme=default" />
 </p>
+
+<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
   
-![Metrics](https://github.com/yuki-hinata/Portfolio/blob/main/github-metrics.svg)
+
