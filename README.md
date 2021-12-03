@@ -31,6 +31,4 @@
  <img alt="Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-hinata&theme=default"
 </p>
   
-<p align="left">
-  <img src="https://github.com/yuki-hinata/sin/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
-</p>
+![Metrics](https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg)
