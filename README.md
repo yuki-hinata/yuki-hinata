@@ -13,10 +13,5 @@
   <a href="https://github.com/yuki-hinata">
     <img height="20" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki-hinata)](https://github.com/yuki-hinata/github-readme-stats)
 </p>
