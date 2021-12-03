@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="left">
+<p display="flex">
  <img alt="Status" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki-hinata&theme=default" />
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-hinata&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
  <img alt="Repo" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki-hinata&theme=default" />
