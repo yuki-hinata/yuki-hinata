@@ -32,5 +32,5 @@
 </p>
   
 <p align="left">
-  <img src="https://github.com/yuki-hinata/Portfolio/sin" alt="Avinal WakaTime Activity"/>
+  <img src="https://github.com/yuki-hinata/Portfolio/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 </p>
