@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  <img alt="Tyopo" height="125px" src="https://github-profile-trophy.vercel.app/?username=yuki-hinata" />
+  <img alt="Tyopo" height="150px" src="https://github-profile-trophy.vercel.app/?username=yuki-hinata" />
 </p>
 
 
