@@ -31,7 +31,7 @@
  <img alt="Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-hinata&theme=default" />
 </p>
 
-<img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/yuki-hinata/Portfolio/blob/main/images/stat.svg" alt="Alternative Text"/>
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
   
