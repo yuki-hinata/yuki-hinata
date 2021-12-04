@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/yuki-hinata/yuki-hinata/blob/master/github-metrics.svg" alt="Alternative Text"/>
+  <img src="https://github.com/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
 </p>
 
 <p align="left">
