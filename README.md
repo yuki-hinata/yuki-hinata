@@ -16,6 +16,10 @@
 </p>
 
 <p align="left">
+  <img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
+</p>
+
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-hinata&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="Status" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuki-hinata&show_icons=true&theme=radical" />
 </p>
@@ -31,5 +35,4 @@
  <img alt="Commit" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuki-hinata&theme=default" />
 </p>
 
-<img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
 
