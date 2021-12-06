@@ -1,4 +1,4 @@
-### Hi Everyone 👋
+### Hi I'm Yuki 👋
 
 <p align="left"> 
   <a href="https://github.com/yuki-hinata/yuki-hinata">
