@@ -28,10 +28,6 @@
   <img alt="Tyopo" height="150px" src="https://github-profile-trophy.vercel.app/?username=yuki-hinata" />
 </p>
 
-
-  <figure><embed src="https://wakatime.com/share/@4f6bfde6-018b-49f8-af3e-1d5d781e7d25/5724803b-c0ef-4285-89e9-e13fbe815f68.svg"></embed></figure>
-
-
 <p align="left">
  <img alt="Status" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki-hinata&theme=default" />
  <img alt="Repo" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuki-hinata&theme=default" />
