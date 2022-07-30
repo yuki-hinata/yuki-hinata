@@ -37,6 +37,11 @@ I am a beginner application engineer <img src="https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuki-hinata&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <p align="left">
   <img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
 </p>
