@@ -1,11 +1,4 @@
 ### Hi I'm Yuki 👋
-
-<div id="header" align="center" backgroundColor="white">
-  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
-</div>
-
 <p align="left"> 
   <a href="https://github.com/yuki-hinata/yuki-hinata">
     <img src="https://komarev.com/ghpvc/?username=yuki-hinata" alt="yuki-hinata" />
@@ -17,6 +10,12 @@
     <img height="20" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
   </a>
 </p>
+
+<div id="header" align="center" backgroundColor="white">
+  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
+</div>
 
 <p align="left">
   <img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
