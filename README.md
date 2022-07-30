@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://github.com/yuki-hinata">
-    <img height="20" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
+    <img height="40" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
   </a>
 </p>
 
