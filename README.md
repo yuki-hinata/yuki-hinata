@@ -1,13 +1,13 @@
 <p align="left"> 
   <h1 color="blue">Hi I'm Yuki!</h1>
   <a href="https://github.com/yuki-hinata/yuki-hinata">
-    <img src="https://komarev.com/ghpvc/?username=yuki-hinata" alt="yuki-hinata" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=yuki-hinata" alt="yuki-hinata" />
   </a>
   <a href="https://twitter.com/ohisama_pro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://github.com/yuki-hinata">
-    <img height="40" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
+    <img height="30" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
   </a>
 </p>
 
