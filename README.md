@@ -41,6 +41,7 @@ I am a beginner application engineer <img src="https://media.giphy.com/media/WUl
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuki-hinata&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-hinata&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
