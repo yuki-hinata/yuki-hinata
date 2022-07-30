@@ -11,16 +11,10 @@
     <img src="https://komarev.com/ghpvc/?username=yuki-hinata" alt="yuki-hinata" />
   </a>
   <a href="https://twitter.com/ohisama_pro">
-    <img height="20" src="https://img.shields.io/twitter/follow/oshima_pro?style=social" />
-  </a>
-  <a href="https://twitter.com/ohisama_pro">
-     <img height="20" src="https://img.shields.io/twitter/url?style=social&url=oshima_pro" />
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://github.com/yuki-hinata">
     <img height="20" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
-  </a>
-  <a href="https://twitter.com/ohisama_pro">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
 
