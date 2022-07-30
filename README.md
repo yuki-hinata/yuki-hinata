@@ -1,6 +1,6 @@
 ### Hi I'm Yuki 👋
 
-<div id="header" align="center">
+<div id="header" align="center" backgroundColor="white">
   <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif" width="150"/>
