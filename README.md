@@ -1,5 +1,7 @@
 <p align="left"> 
-  <h1 color="blue">Hi I'm Yuki!</h1>
+  <h1>
+    <text>>Hi I'm Yuki!</text>
+  </h1>
   <a href="https://github.com/yuki-hinata/yuki-hinata">
     <img height="30" src="https://komarev.com/ghpvc/?username=yuki-hinata" alt="yuki-hinata" />
   </a>
