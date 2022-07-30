@@ -1,5 +1,9 @@
 ### Hi I'm Yuki 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <p align="left"> 
   <a href="https://github.com/yuki-hinata/yuki-hinata">
     <img src="https://komarev.com/ghpvc/?username=yuki-hinata" alt="yuki-hinata" />
