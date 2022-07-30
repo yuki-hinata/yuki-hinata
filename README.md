@@ -19,6 +19,9 @@
   <a href="https://github.com/yuki-hinata">
     <img height="20" src="https://img.shields.io/github/followers/yuki-hinata?style=social" />
   </a>
+  <a href="https://twitter.com/ohisama_pro">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </p>
 
 <p align="left">
