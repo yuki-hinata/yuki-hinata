@@ -26,6 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
+I am a beginner application engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from .
 
 <p align="left">
   <img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
