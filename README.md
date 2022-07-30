@@ -25,7 +25,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 <p align="left">
   <img src="https://github.com/yuki-hinata/yuki-hinata/blob/main/github-metrics.svg" alt="Alternative Text"/>
