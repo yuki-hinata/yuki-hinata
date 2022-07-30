@@ -1,6 +1,7 @@
 <p align="left"> 
   <h1>
-    <text>>Hi I'm Yuki!</text>
+    <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
+    <text>Hi I'm Yuki!</text>
   </h1>
   <a href="https://github.com/yuki-hinata/yuki-hinata">
     <img height="30" src="https://komarev.com/ghpvc/?username=yuki-hinata" alt="yuki-hinata" />
