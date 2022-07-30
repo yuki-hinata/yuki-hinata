@@ -1,7 +1,7 @@
-<p align="left"> 
+<p align="left" align-items='center'> 
   <h1>
     <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
-    <text margin-bottom="20px">Hi I'm Yuki!</text>
+    <text>Hi I'm Yuki!</text>
     <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
   </h1>
   <a href="https://github.com/yuki-hinata/yuki-hinata">
