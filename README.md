@@ -1,5 +1,5 @@
 <div dispaly="flex" align="center">
-  <h1 flex-flow="column" justify-content="center">
+  <h1 display="block"　flex-flow="column" justify-content="center">
     <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <text>Hi I'm Yuki!</text>
