@@ -1,4 +1,4 @@
-<div align="center"　flex-flow="column">
+<div align="center"　flex-flow="column" justify-content="center">
   <h1>
     <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="150"/>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
